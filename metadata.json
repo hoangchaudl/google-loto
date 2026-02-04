@@ -1,0 +1,7 @@
+{
+  "name": "Lô Tô Live - Real-time Multiplayer Caller",
+  "description": "A professional-grade real-time Lô Tô number calling application with AI-powered 'Rao' verses, synchronized sessions, and participant tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
